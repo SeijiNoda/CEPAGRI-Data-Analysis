@@ -8,7 +8,7 @@ located at UNICAMP, between the years of 2015-2020.<br>
   - [dplyr](https://dplyr.tidyverse.org/)
   - [ggplot2](https://ggplot2.tidyverse.org/)
 
-- The data was, and still is, collected in intervals of 10 minutes, and it scopes these said stats:
+- The data was, and still is, collected in intervals of 10 minutes, and it scopes these stats:
   - Time of collection (date)
   - Temperature (Celsius)
   - Heat Index (Celsius)
